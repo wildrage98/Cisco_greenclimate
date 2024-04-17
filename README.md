@@ -1,4 +1,6 @@
-# Cisco App
+# Green climate
+
+## Cisco App
 
 The code in the `cisco app` folder constructs the GUI and retrieves data from the server.
 
