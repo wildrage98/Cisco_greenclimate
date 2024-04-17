@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1017629534962",
+    "firebase_url": "https://cisco-map-417104-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cisco-map-417104",
+    "storage_bucket": "cisco-map-417104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017629534962:android:533a2779e6211269707e6b",
+        "android_client_info": {
+          "package_name": "com.example.cisco_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXWK29KLEKjrTOaXoikIvCjJRXrZC0w7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
